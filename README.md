@@ -1,2 +1,3 @@
 # shuvadippalAppdev
-calculator app project
+calculator app projecct
+Author - Shuvadip Pal
